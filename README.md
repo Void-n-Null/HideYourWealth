@@ -14,4 +14,4 @@ Hide Your Wealth is a RimWorld mod that adds hidden storage buildings whose cont
 
 It shipped with translations into French, Spanish, Latin American Spanish, and Japanese, because if you are going to help people commit tax fraud you should do it in multiple languages.
 
-Looking back, this was the first mod where I patched a core game system (the wealth calculator) rather than adding content on top, and it is the direct ancestor of my later, much stranger RimWorld experiments with [ColonyCopilot](https://github.com/Void-n-Null/ColonyCopilot) and [Artificial Rimtelligence](https://github.com/Void-n-Null/Artificial-Rimtelligence).
+This was the first mod where I patched a core game system rather than adding content on top, and it is the direct ancestor of my later, much stranger RimWorld experiments with [ColonyCopilot](https://github.com/Void-n-Null/ColonyCopilot) and [Artificial Rimtelligence](https://github.com/Void-n-Null/Artificial-Rimtelligence).
